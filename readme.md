@@ -15,5 +15,7 @@ I am a Teamlead Business Solutions with a knowledge in Dynamics 365 Business Cen
 
 ## Contact
 - **GitHub**: [danielabouchleih](https://github.com/danielabouchleih)
+- **LinkedIn** [danielabouchleih](https://www.linkedin.com/in/danielabouchleih/)
+- **Blog** [Blog](http://businesscentral365.dev/)
 
 Feel free to reach out to me for collaboration or any inquiries!
