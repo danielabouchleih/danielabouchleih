@@ -1,10 +1,12 @@
 # Daniel Abou Chleih
 
 ## About Me
-I am a Teamlead Business Solutions with a deep knowledge in Dynamics 365 Business Central and Microsoft Power Platform. With extensive experience in development and leadership, I excel at driving projects to success.
+I am a Teamlead Business Solutions with a knowledge in Dynamics 365 Business Central and Microsoft Power Platform. 
 
 ## Projects and Achievements
-- **ACE Lead Dev**: Leading the development and implementation of ACE projects, ensuring timely delivery and quality.
+- **ACE Lead Dev**: Leading the development and implementation of ACE projects.
+  - My biggest project was the development of the ACE membership module for managing and billing all ACE memberships
+  - I am currently working as Product Owner on the migration of OnPrem Dynamics NAV to Business Central SaaS
 
 ## Skills
 - Dynamics 365 Business Central
