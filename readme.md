@@ -2,6 +2,7 @@
 
 ## About Me
 I am a Teamlead Business Solutions with a knowledge in Dynamics 365 Business Central and Microsoft Power Platform. 
+I've been working with NAV since version 5.0 and therefor know the Classic Client, RTC and the current Web Client.
 
 ## Projects and Achievements
 - **ACE Lead Dev**: Leading the development and implementation of ACE projects.
